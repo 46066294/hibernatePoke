@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1411284716">
+    <data-source source="LOCAL" name="PostgreSQL - newpokehb@192.168.1.51" uuid="471ded53-484f-4ead-915f-dc908a601681">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.1.51:5432/newpokehb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - pokehibernate@192.168.1.111" uuid="86f0e303-a2aa-456e-9105-91fce8548d08">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.1.111:5432/pokehibernate</jdbc-url>
+    </data-source>
+  </component>
+</project>
