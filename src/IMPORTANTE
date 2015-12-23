@@ -1,0 +1,28 @@
+Testeado en casa bajo maquina virtual ubuntu
+user : marc
+pass : 2a
+
+Database PostgreSQL
+Ip host : 192.168.1.111
+Port : 5432
+Database nombre : pokehibernate
+user : marc
+pass : marc
+
+-Entrar en BBDD
+    $ sudo su postgres
+
+-Cambiar prompt
+    & psql
+
+-Entrar en una BBDD en particular
+    & psql pokehibernate
+
+-Comandos utiles para VM:
+    \list : lista todas las BBDD
+    \l : lista todas las BBDD
+    \dt : ver tablas de una BBDD
+    \q : salir
+
+-Manual de Postgre
+    http://www.postgresql.org/files/documentation/pdf/9.0/postgresql-9.0-A4.pdf
